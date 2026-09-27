@@ -1,6 +1,18 @@
 {
   "version": 1,
   "plugins": {
+    "attentionwatch": {
+      "sha": "95eade27ae3db1cc6b72e7ca2522c8f6dfd4f7ab",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "attentionwatch",
+            "description": "http"
+          }
+        ]
+      }
+    },
     "axiom": {
       "sha": "0e98ebaeec76a70c8fda9a7737605800c2f1245d",
       "version": "1.0.0",
